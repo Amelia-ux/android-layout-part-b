@@ -7,5 +7,8 @@
 ![Screenshot Dashboard Oracle](images/img2.png)
 ![Screenshot Dashboard Oracle](images/img4.png)
 
-## Task 3: Change the layout to RelativeLayout
+## Task 2: Change the layout to LinearLayout
 ![Screenshot Dashboard Oracle](images/img5.png)
+
+## Task 3: Change the layout to RelativeLayout
+![Screenshot Dashboard Oracle](images/img6.png)
