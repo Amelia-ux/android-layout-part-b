@@ -12,3 +12,7 @@
 
 ## Task 3: Change the layout to RelativeLayout
 ![Screenshot Dashboard Oracle](images/img6.png)
+
+## Homework
+![Screenshot Dashboard Oracle](images/img7.jpeg)
+![Screenshot Dashboard Oracle](images/img8.jpeg)
